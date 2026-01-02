@@ -1,4 +1,4 @@
-Este projeto implementa um sistema simples de detecção de rostos em tempo real utilizando Python e OpenCV.
+Detecção de rostos em tempo real utilizando Python e OpenCV.
 A aplicação captura imagens diretamente da webcam e aplica o algoritmo Haar Cascade para identificar rostos no vídeo.
 
 ![Image](https://github.com/user-attachments/assets/a2f482bd-a359-4271-a58c-6f0cd38f41f1)
